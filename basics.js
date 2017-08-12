@@ -23,6 +23,10 @@ var myName = "Marge Simpson";
  * and it should print "Hello, my name is {name}"
  */
 
+ function greet(name){
+ 	console.log("Hello, my name is " + name);
+ }
+
 /* Create an array called `dataTypes` with atleast 1 of every data type;
  * (there are 6 different data types);
  */
